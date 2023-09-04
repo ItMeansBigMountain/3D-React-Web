@@ -1,6 +1,6 @@
 # START REACT 3D WEB PROJECT
-- npx create-react-app <PROJECT>
-- cd <PROJECT>
+- npx create-react-app `<PROJECT>`
+- cd `<PROJECT>`
 - npm install three@0.124.0
 - npm install react-three-fiber@5.3.14
 - npm install @react-three/drei@3.0.0
@@ -12,7 +12,7 @@
 
 
 # USING CANVAS COMPONENTS
-    three.js gives you <components/> that you may use to make your 3D world
+    three.js gives you `<components/>` that you may use to make your 3D world
 
 
 
